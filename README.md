@@ -1,3 +1,4 @@
+![logo](https://github.com/KrishnaSingh0001/KrishnaSingh0001/blob/main/image%20(2).png)
 <h1 align="center">Hi 👋, I'm Krishna Singh</h1>
 <h3 align="center">I am a 2nd year dedicated Computer Science engineering student</h3>
 
