@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **singhkrishna5099213@gmail.com**
 
-- ⚡ Fun fact **I am always a learner  😅**
+- ⚡ Fun fact **I am always a learner  😊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
