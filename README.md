@@ -1,6 +1,6 @@
 ![logo](https://github.com/KrishnaSingh0001/KrishnaSingh0001/blob/main/image%20(10).jpg)
 <h1 align="center">Hi 👋, I'm Krishna Singh</h1>
-<h3 align="center">I am a 3rd year dedicated Computer Science engineering student</h3>
+<h3 align="center">I am a 4th year dedicated Computer Science engineering student</h3>
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnasingh0001&label=Profile%20views&color=0e75b6&style=flat" alt="krishnasingh0001" /> </p>
